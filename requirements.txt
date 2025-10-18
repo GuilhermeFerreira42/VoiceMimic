@@ -1,0 +1,11 @@
+numpy==1.26.4
+tokenizers==0.13.3
+transformers==4.31.0
+torch==2.3.0
+soundfile==0.12.1
+TTS==0.22.0
+fastapi
+uvicorn
+
+pip install --no-deps -r requirements.txt && pip install numpy==1.26.4 tokenizers==0.20.3 transformers==4.46.2 torch==2.9.0 soundfile==0.12.1 TTS==0.25.1
+
