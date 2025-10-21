@@ -1,0 +1,33 @@
+# Diretórios de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+python-build/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos de depuração
+*.log
+*.tmp
+
+# Modelos baixados pela biblioteca TTS
+tts_models/
+TTS/
+.cache/
